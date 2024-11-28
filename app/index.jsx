@@ -8,7 +8,7 @@ export default function Index() {
   const [isloading, setIsloading] = useState(false);
 
   let navigate_to_welcome = () => {
-    router.push("/welcome/WelcomeScreen1"); //just for now   /welcome/WelcomeScreen1
+    router.push("/welcome/WelcomeScreen1"); //just for now12345   /welcome/WelcomeScreen1
   };
 
   useEffect(() => {
